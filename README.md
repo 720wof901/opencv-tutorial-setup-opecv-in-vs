@@ -31,6 +31,6 @@ NOW we go to "Linker"→"input"
    
    opencv_world343.lib , 343 is your opencv version like opencv3.4.3
    
-   
+   # Thank very much..
    
    
